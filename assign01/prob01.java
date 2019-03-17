@@ -10,12 +10,12 @@ public class prob01 {
     public static int size = 0;
     public static int index = 0;
 
-	public static int precnt = 0;
+    public static int precnt = 0;
     public static int postcnt = 0;
-	public static int samecnt = 0;
+    public static int samecnt = 0;
 	
     public static Scanner inFile;
-	public static words [] words = new words[capacity];	
+    public static words [] words = new words[capacity];	
 	
    
     public static void main(String[] args) {
