@@ -30,7 +30,7 @@ public class prob01 {
     		if(command.equals("read")) {
     			str = kb.next();
     			readFile();
-    		}
+    		} 
     		else if(command.equals("size"))
     			System.out.println(size);	
     		else if(command.equals("find")) {
